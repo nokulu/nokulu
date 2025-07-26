@@ -10,7 +10,7 @@
 
 ### 🧠 Who Am I?
 
-- 🎓 ICT engineering student (AMK), specializing in **IoT**, **AI** and **cybersecurity**
+- 🎓 ICT engineering student at Kajaani University of applied sciences(KAMK), specializing in **IoT**, **AI** and **cybersecurity**
 - ⚔️ I design and build autonomous cyber agents for offensive and defensive use
 - 🧠 Focused on edge intelligence, adversarial learning and synthetic autonomy
 - 👁️ Inspired by nature, optimized for digital warfare
