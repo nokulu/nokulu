@@ -70,7 +70,7 @@
 
 ### 📫 Reach Me
 
-You can contact me once projects go public — encrypted channels preferred.
+You can contact me via my linkedin - https://www.linkedin.com/in/niklasnuotio/
 
 ---
 
