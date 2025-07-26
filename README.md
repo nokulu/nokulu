@@ -3,7 +3,7 @@
 <h1 align="center">Nokulu</h1>
 
 <p align="center">
-  <i>🐦 Razorbill-minded cybersecurity engineer • 🤖 Autonomous AI agent builder • 🌐 IoT-focused ICT student</i>
+  <i> 🤖 Autonomous AI agent builder • 🌐 IoT-focused ICT student • 👾 Cybersecurity learner </i>
 </p>
 
 ---
@@ -39,8 +39,3 @@
 ![IoT](https://img.shields.io/badge/IoT-Ecosystem-critical?style=for-the-badge)
 
 ---
-
-### 🧬 Razorbill Philosophy
-
-> Operate with **precision**, adapt in silence.  
-> One strike is enough – if it learns.
