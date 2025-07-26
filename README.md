@@ -3,7 +3,7 @@
 <h1 align="center">🐦 Nokulu</h1>
 
 <p align="center">
-  <i> 🤖 Autonomous AI Agent Architect • 🌐 IoT-Focused ICT Student • 🛡️ Cybersecurity Specialist-in-Training </i><br>
+  <i> 🤖 Autonomous AI Agent Architect • 🌐 IoT-Focused ICT Engineering Student • 🛡️ Cybersecurity Specialist-in-Training </i><br>
   <i> Inspired by the razorbill — elegant, strategic, and adaptive </i>
 </p>
 
