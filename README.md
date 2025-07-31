@@ -17,7 +17,7 @@
 - 🎓 ICT engineering student at **Kajaani University of Applied Sciences (KAMK)**  
 - 🌐 Specializing in **IoT**, **AI**, and **Cybersecurity**
 - ⚔️ Building **autonomous cyber agents** for both offensive and defensive ops
-- 🧬 Exploring edge intelligence, adversarial ML, and synthetic autonomy
+- 🧬 Researching edge intelligence, adversarial ML, and synthetic autonomy
 - 🧠 Nature-inspired systems for digital warfare — strategic like a razorbill
 
 ---
