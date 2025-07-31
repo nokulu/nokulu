@@ -7,7 +7,7 @@
 
 <p align="center">
   <i> 🤖 Autonomous AI Agent Architect • 🌐 IoT-Focused ICT Engineering Student • 🛡️ Cybersecurity Specialist-in-Training </i><br>
-  <i> Inspired by the razorbill — elegant, strategic, and adaptive </i>
+
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 #### 🧿 `VIBE`  
 > **Versatile Intelligent Breach Engine**  
-> A solo AI agent for surgical digital infiltration and evolving threat tactics.
+> A hacking platform for autonomous digital infiltration and evolving threat tactics.
 
 ---
 
