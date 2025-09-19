@@ -18,7 +18,7 @@
 - 🌐 Specializing in **IoT**, **AI**, and **Cybersecurity**
 - ⚔️ Building **autonomous cyber agents** for both offensive and defensive ops
 - 🧬 Researching edge intelligence, adversarial ML, and synthetic autonomy
-- 🧠 Nature-inspired systems for digital warfare — strategic like a razorbill
+- 🧠 Nature-inspired systems for digital warfare
 
 ---
 
