@@ -7,7 +7,6 @@
 
 <p align="center">
   <i> 🤖 Autonomous AI Agent Architect • 🌐 IoT-Focused ICT Engineering Student • 🛡️ Cybersecurity Specialist-in-Training 🎯</i><br>
-
 </p>
 
 ---
@@ -33,6 +32,17 @@
 #### 🧿 `VIBE`  
 > **Versatile Intelligent Breach Engine**  
 > A hacking platform for autonomous digital infiltration and evolving threat tactics.
+
+#### 🐉 `Inheritance` (Minecraft Mod)  
+![Minecraft Mod](https://img.shields.io/badge/Minecraft-Inheritance-green?style=for-the-badge&logo=minecraft)  
+> A **Xianxia / Taoist cultivation inspired** Minecraft mod.  
+> Features complex cultivation systems, elemental interactions, bloodlines, formations,  
+> and thousands of unique skills.  
+>  
+> 🌌 Explore mystical realms, cultivate your path to immortality,  
+> and challenge the heavens themselves.  
+>  
+> 📦 Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inheritance)
 
 ---
 
@@ -75,5 +85,4 @@ You can contact me via my linkedin - https://www.linkedin.com/in/niklasnuotio/
 ---
 
 <p align="center">
-  <i>“From the cliffs of nature to the edges of networks — the razorbill hunts with precision.”</i>
-</p>
+
